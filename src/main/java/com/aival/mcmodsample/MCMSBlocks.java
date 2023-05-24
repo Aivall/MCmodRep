@@ -1,6 +1,6 @@
-package com.yourname.yourmodid;
+package com.aival.mcmodsample;
 
-public class ModBlocks {
+public class MCMSBlocks {
     //Create DeferredRegister for blocks
 
     //Register Blocks

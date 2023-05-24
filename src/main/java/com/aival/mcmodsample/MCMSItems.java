@@ -1,6 +1,6 @@
-package com.yourname.yourmodid;
+package com.aival.mcmodsample;
 
-public class ModItems {
+public class MCMSItems {
     //Create DeferredRegister for items
 
     //Register Items
